@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 💻 Love coding in Python and Java<br>🤖 Passionate about Generative AI<br>📚 Currently learning Machine Learning and HPC<br>🚀 On a journey to reach the top 1% of software engineers<br>
 
 
