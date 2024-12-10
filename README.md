@@ -1,6 +1,5 @@
 # About Me:
-💻 Love coding in Python and Java<br>🤖 Passionate about Generative AI<br>📚 Currently learning Machine Learning and HPC<br>🚀 On a journey to reach the top 1% of software engineers<br>
-
+💻 Love coding in Python and Java<br>🤖 Passionate about Generative AI<br>📚 Currently learning Machine Learning and HPC<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/youssef-briki/) 
