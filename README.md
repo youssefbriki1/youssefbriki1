@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Youssef and I'm an undergrad student, from Université de Montréal</p>
+<p align="left">My name is Youssef and I'm an undergrad student from Université de Montréal</p>
 
 ###
 
